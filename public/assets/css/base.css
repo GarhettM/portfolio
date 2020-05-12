@@ -1769,7 +1769,7 @@ input, select, textarea {
 			height: 400px;
 			width: auto;
 			float: left;
-			border-radius: 1px;
+			border-radius: 15px;
 		}
 
 		.headshot {
