@@ -1,0 +1,16 @@
+.row {
+  display: flexbox;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.col-4 col-12-mobile {
+  display: flex;
+
+}
+
+.imageFit {
+  max-width: 150px;
+  max-height: 150px;
+  justify-self: center;
+}
